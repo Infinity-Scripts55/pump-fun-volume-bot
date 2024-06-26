@@ -4,6 +4,7 @@
 
 Features:
 <li>Buy & Sell Your Own Token W JITO Bundles!</li>
+<li>Buy & Sell Your Own Token IN THE SAME TX!</li>
 <li>Generate fresh wallets for every new coin!</li>
 <li>Send SOL from 1 main wallet -> your volume wallets</li>
 <li>Send SOL from volume wallets --> main wallet</li>
